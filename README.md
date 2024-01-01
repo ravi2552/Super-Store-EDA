@@ -15,3 +15,12 @@ Super Store EDA is an in-depth project focused on conducting exploratory data an
     
 **4. Geospatial Visualization:**
   - Utilize geospatial visualizations to understand the geographical distribution of sales and identify potential growth areas.
+
+## Technologies Used
+The project leverages the following technologies:
+
+**Python:** Core programming language for data analysis.
+**Pandas:** Data manipulation and analysis library.
+**Matplotlib and Seaborn:** Data visualization tools for creating insightful charts and graphs.
+## Installation
+To get started with the Super Store EDA project:
