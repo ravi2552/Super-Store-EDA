@@ -5,4 +5,14 @@ Super Store EDA is an in-depth project focused on conducting exploratory data an
 
 ## Key Features
 1. Sales Trend Analysis:
- - Visualize and analyze sales trends over time to identify peak periods and fluctuations.
+
+- Visualize and analyze sales trends over time to identify peak periods and fluctuations.
+2. Product Category Insights:
+
+- Explore the performance of different product categories, identifying top-selling items and underperforming areas.
+3. Customer Behavior Exploration:
+
+- Investigate customer purchase behaviors, including popular products, average order values, and customer demographics.
+4. Geospatial Visualization:
+
+- Utilize geospatial visualizations to understand the geographical distribution of sales and identify potential growth areas.
