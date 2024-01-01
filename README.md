@@ -22,5 +22,7 @@ The project leverages the following technologies:
 **Python:** Core programming language for data analysis.<br>
 **Pandas:** Data manipulation and analysis library.<br>
 **Matplotlib and Seaborn:** Data visualization tools for creating insightful charts and graphs.<br>
-## Installation
-To get started with the Super Store EDA project:
+
+## Usage
+  - Explore and analyze the Super Store dataset by running the Jupyter Notebook or Python scripts provided in the project.
+  - jupyter notebook Super_Store_EDA.ipynb
