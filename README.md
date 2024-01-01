@@ -19,8 +19,8 @@ Super Store EDA is an in-depth project focused on conducting exploratory data an
 ## Technologies Used
 The project leverages the following technologies:
 
-**Python:** Core programming language for data analysis.
-**Pandas:** Data manipulation and analysis library.
-**Matplotlib and Seaborn:** Data visualization tools for creating insightful charts and graphs.
+**Python:** Core programming language for data analysis.<br>
+**Pandas:** Data manipulation and analysis library.<br>
+**Matplotlib and Seaborn:** Data visualization tools for creating insightful charts and graphs.<br>
 ## Installation
 To get started with the Super Store EDA project:
